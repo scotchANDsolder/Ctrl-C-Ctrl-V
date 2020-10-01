@@ -1,0 +1,188 @@
+5C:5B:35:6E:75:D2	 LLamaGuest
+48:F8:B3:42:09:CD	 Cisco99917
+EC:58:EA:43:6E:C8	 YOUnion.SynergyWifi.com
+78:23:AE:5C:F9:04	 ERG
+EC:58:EA:83:6E:C8	 register.synergywifi.com
+EC:58:EA:C3:6E:C8	 YounionStaff
+C0:56:27:3F:5A:E0	 Issa_Properties
+BA:9F:09:CE:0A:48	 myChevrolet
+A8:9F:EC:2C:83:18	 Hanlin
+60:D0:2C:A5:BA:58	 register.synergywifi.com
+00:0D:67:08:02:6E	 2020WWRoam
+F4:30:B9:B6:B4:6C	 DIRECT-6B-HP ENVY 4520 series
+60:D0:2C:A5:B9:E8	 register.synergywifi.com
+38:FF:36:AE:7F:28	 FoundryStaff.SynergyWifi.com
+38:FF:36:EE:7F:28	 register.synergywifi.com
+14:22:DB:95:A6:C8	 
+18:4B:0D:F6:AA:18	 register.synergywifi.com
+3C:8C:F8:F3:05:47	 TRENDNET Network 2.4GHz
+4E:D9:E7:7B:54:84	 Young Basile Guest
+4A:D9:E7:7B:54:84	 Young Basile
+AC:22:0B:D0:16:B0	 Wu Tang Lan
+18:4B:0D:AD:38:9C	 
+60:3D:26:6F:EC:8C	 BROADCOM_GUEST_0_6
+60:3D:26:6F:EC:8B	 BROADCOM_GUEST_0_5
+EE:97:BA:C3:4C:E0	 
+F8:E7:1E:84:96:38	 FoundryStaff.SynergyWifi.com
+60:3D:26:6F:EC:89	 BROADCOM_GUEST_0_3
+F8:E7:1E:04:96:38	 Foundry.SynergyWifi.com
+F0:B4:29:FD:F1:6D	 
+14:22:DB:95:A6:C4	 
+10:DA:43:AD:D9:E8	 NETGEAR01
+A4:6C:2A:2E:C0:E2	 BdMobileNet
+A4:6C:2A:2E:C0:E0	 \x00
+60:D0:2C:D8:4E:58	 YounionStaff
+60:D0:2C:E5:B8:A8	 YounionStaff
+F8:E7:1E:C1:F7:B8	 register.synergywifi.com
+60:D0:2C:65:B8:A8	 YOUnion.SynergyWifi.com
+A4:6C:2A:2E:C0:E3	 BdWebEx
+60:D0:2C:25:B8:A8	 YOUnion.SynergyGuest.com
+F8:E7:1E:C4:22:E8	 register.synergywifi.com
+38:FF:36:EE:96:B8	 register.synergywifi.com
+A4:6C:2A:2E:C0:E1	 BdGuestNet
+10:DA:43:BB:53:E1	 \xF0..\xA5\xF0..\xA5\xF0..\xA52.4GHz
+60:D0:2C:58:4E:58	 
+2C:C5:D3:74:F9:98	 FoundryGuest.SynergyWifi.com
+2C:C5:D3:F4:F9:98	 register.synergywifi.com
+3C:37:86:C3:5B:7D	 HURONWIFI
+60:D0:2C:A5:B8:A8	 register.synergywifi.com
+BC:A5:11:00:47:13	 Evangelion
+5C:5B:35:6E:75:D3	 \x00\x00\x00\x00\x00\x00\x00
+38:FF:36:EE:95:88	 register.synergywifi.com
+FA:8F:CA:81:D8:F7	 
+60:D0:2C:E5:BB:08	 YOUnionStudy
+0C:F4:D5:38:F4:58	 Foundry.SynergyWifi.com
+60:D0:2C:E5:BA:58	 YounionStaff
+BA:23:AE:5C:F9:04	 
+0C:F4:D5:78:F4:58	 FoundryGuest.SynergyWifi.com
+38:FF:36:2E:95:88	 Foundry.SynergyWifi.com
+0C:F4:D5:B8:F4:58	 FoundryStaff.SynergyWifi.com
+38:17:C3:8F:EF:24	 TDA_Guest
+F8:E7:1E:C4:96:38	 register.synergywifi.com
+3C:36:E4:28:59:90	 ATT160
+9A:23:AE:5C:F9:04	 
+F8:E7:1E:04:22:E8	 Foundry.SynergyWifi.com
+EC:1D:7F:7D:16:81	 T-Mobile Broadband40
+FA:8F:CA:5B:57:F6	 GoogleHome2722.o
+60:D0:2C:25:BB:08	 YOUnion.SynergyGuest.com
+60:D0:2C:25:BB:48	 YOUnion.SynergyGuest.com
+18:4B:0D:B6:AA:18	 YounionStaff
+7A:23:AE:5C:F9:04	 
+94:A3:CA:0E:A3:4C	 MetroPCS Broadband_30
+0C:F4:D5:F8:F4:58	 register.synergywifi.com
+60:D0:2C:25:BB:09	 YOUnion.SynergyWifi-5G
+60:3D:26:6F:EC:86	 CBCI-EC82
+18:4B:0D:37:41:28	 YOUnion.SynergyGuest.com
+18:4B:0D:B7:41:28	 YounionStaff
+60:D0:2C:A5:BB:08	 register.synergywifi.com
+60:D0:2C:58:63:58	 YOUnion.SynergyWifi.com
+60:D0:2C:D8:63:58	 YounionStaff
+60:D0:2C:98:63:58	 register.synergywifi.com
+DC:7F:A4:0C:09:F1	 ATT4Rd2PEk
+F2:97:BA:C3:4C:E0	 
+60:D0:2C:A5:BB:48	 register.synergywifi.com
+18:4B:0D:F7:41:28	 register.synergywifi.com
+E2:97:BA:C3:4C:E0	 xfinitywifi
+18:4B:0D:77:41:28	 YOUnion.SynergyWifi.com
+E6:97:BA:C3:4C:E0	 
+F8:E7:1E:04:8E:B8	 Foundry.SynergyWifi.com
+60:D0:2C:18:63:58	 YOUnion.SynergyGuest.com
+60:D0:2C:65:BB:48	 YOUnion.SynergyWifi.com
+38:FF:36:2E:96:B8	 Foundry.SynergyWifi.com
+0C:F4:D5:03:48:58	 Foundry.SynergyWifi.com
+60:D0:2C:65:BB:08	 YOUnion.SynergyWifi.com
+DE:97:BA:C3:4C:E0	 
+60:D0:2C:E5:BB:48	 YounionStaff
+D8:97:BA:C3:4C:E0	 HOME-7502-2.4
+60:D0:2C:E5:B9:E8	 YounionStaff
+F8:E7:1E:44:8E:B8	 FoundryGuest.SynergyWifi.com
+12:DA:43:AD:D9:E9	 NETGEAR-Guest
+38:FF:36:6E:95:88	 FoundryGuest.SynergyWifi.com
+38:FF:36:6E:96:B8	 FoundryGuest.SynergyWifi.com
+38:FF:36:AE:96:B8	 FoundryStaff.SynergyWifi.com
+F8:E7:1E:84:8E:B8	 FoundryStaff.SynergyWifi.com
+38:FF:36:AE:95:88	 FoundryStaff.SynergyWifi.com
+2C:95:69:45:B9:30	 ATTkYbB4mS
+18:4B:0D:F7:60:E8	 register.synergywifi.com
+60:D0:2C:98:46:68	 register.synergywifi.com
+18:4B:0D:37:60:E8	 YOUnion.SynergyGuest.com
+60:D0:2C:D8:46:68	 YounionStaff
+60:D0:2C:65:BA:98	 YOUnion.SynergyWifi.com
+18:4B:0D:F6:6B:08	 register.synergywifi.com
+60:D0:2C:18:46:68	 YOUnion.SynergyGuest.com
+18:4B:0D:36:6B:08	 YOUnion.SynergyGuest.com
+18:4B:0D:B7:60:E8	 YounionStaff
+A4:15:88:F9:9F:E0	 
+18:4B:0D:B6:6B:08	 YounionStaff
+60:D0:2C:58:46:68	 YOUnion.SynergyWifi.com
+60:D0:2C:E5:BA:98	 YounionStaff
+60:D0:2C:25:B9:F8	 YOUnion.SynergyGuest.com
+60:D0:2C:A5:B9:F8	 register.synergywifi.com
+DA:31:34:D4:87:0F	 
+60:D0:2C:A5:B6:B8	 register.synergywifi.com
+18:4B:0D:76:6B:08	 YOUnion.SynergyWifi.com
+60:D0:2C:25:BA:98	 YOUnion.SynergyGuest.com
+60:D0:2C:A5:BA:98	 register.synergywifi.com
+60:D0:2C:65:B9:F8	 YOUnion.SynergyWifi.com
+DE:9F:DB:B2:65:CE	 Wilma
+60:D0:2C:65:B6:B8	 YOUnion.SynergyWifi.com
+18:4B:0D:76:67:58	 YOUnion.SynergyWifi.com
+FE:A6:67:7D:8D:BB	 \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+02:15:99:B7:06:28	 DIRECT-KQSCX-3400
+60:D0:2C:E5:B9:F8	 YounionStaff
+A4:15:88:F9:9F:E2	 XFINITY
+60:D0:2C:58:4A:C8	 YOUnion.SynergyWifi.com
+A4:15:88:F9:9F:E3	 xfinitywifi
+18:4B:0D:36:67:58	 YOUnion.SynergyGuest.com
+60:D0:2C:25:B6:B8	 YOUnion.SynergyGuest.com
+18:4B:0D:F6:67:58	 register.synergywifi.com
+18:4B:0D:B6:67:58	 YounionStaff
+A4:15:88:F9:9F:E4	 CableWiFi
+60:D0:2C:E5:B6:B8	 YounionStaff
+60:D0:2C:D8:4A:C8	 YounionStaff
+60:D0:2C:58:44:48	 YOUnion.SynergyWifi.com
+60:D0:2C:98:4A:C8	 register.synergywifi.com
+60:D0:2C:18:4A:C8	 YOUnion.SynergyGuest.com
+60:D0:2C:18:4A:A8	 YOUnion.SynergyGuest.com
+28:7A:EE:B7:34:F2	 XFINITY
+EE:9F:DB:B2:65:CE	 
+60:D0:2C:25:A4:58	 YOUnion.SynergyGuest.com
+DC:9F:DB:B2:65:CE	 Savco
+60:D0:2C:58:4A:A8	 YOUnion.SynergyWifi.com
+E2:55:7D:5C:F7:BF	 \x00\x00\x00\x00
+60:D0:2C:E5:A4:58	 YounionStaff
+E2:55:7D:5C:F7:B0	 \x00\x00\x00\x00\x00\x00\x00
+60:D0:2C:98:4A:A8	 register.synergywifi.com
+28:7A:EE:B7:34:F4	 CableWiFi
+60:D0:2C:A5:A4:58	 register.synergywifi.com
+60:D0:2C:65:BA:D8	 YOUnion.SynergyWifi.com
+28:7A:EE:B7:34:F0	 
+28:7A:EE:B7:34:F3	 xfinitywifi
+60:D0:2C:D8:4A:A8	 YounionStaff
+60:D0:2C:65:A4:58	 YOUnion.SynergyWifi.com
+60:D0:2C:98:4B:28	 register.synergywifi.com
+60:D0:2C:A5:BA:D8	 register.synergywifi.com
+60:D0:2C:E5:BA:D8	 YounionStaff
+60:D0:2C:25:BA:D8	 YOUnion.SynergyGuest.com
+60:D0:2C:58:4B:28	 YOUnion.SynergyWifi.com
+60:D0:2C:A5:A4:68	 register.synergywifi.com
+60:D0:2C:D8:4B:28	 YounionStaff
+60:D0:2C:18:4B:28	 YOUnion.SynergyGuest.com
+60:D0:2C:65:A4:68	 YOUnion.SynergyWifi.com
+60:D0:2C:25:A4:68	 YOUnion.SynergyGuest.com
+60:D0:2C:E5:A4:68	 YounionStaff
+60:D0:2C:98:44:48	 register.synergywifi.com
+60:D0:2C:18:44:48	 YOUnion.SynergyGuest.com
+00:0D:97:1B:46:55	 
+60:D0:2C:D8:44:48	 YounionStaff
+18:4B:0D:77:60:E8	 YOUnion.SynergyWifi.com
+00:0D:67:00:ED:43	 2020WWRoamR
+00:0D:97:0B:46:55	 
+00:0D:67:00:ED:42	 2020WWRoam
+00:25:00:FF:94:73	 
+30:60:23:BD:D7:60	 
+60:D0:2C:65:A4:6C	 
+EC:58:EA:77:73:C8	 
+38:17:C3:8F:EF:22	 TDA-BYOD
+18:4B:0D:F7:58:C8	 register.synergywifi.com
+18:4B:0D:37:58:C8	 YOUnion.SynergyGuest.com

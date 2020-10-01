@@ -1,0 +1,282 @@
+5C:5B:35:54:D9:31	 
+28:C6:8E:B7:62:30	 NETGEAR76
+EC:58:EA:43:6E:C8	 YOUnion.SynergyWifi.com
+8A:15:04:B8:56:82	 Butzel Guest
+4E:7A:8A:6B:8D:38	 xfinitywifi
+A4:15:88:F9:9F:E4	 CableWiFi
+A4:15:88:F9:9F:E2	 XFINITY
+A4:15:88:F9:9F:E0	 
+60:D0:2C:D8:4A:A8	 YounionStaff
+10:05:01:E1:62:68	 Catharine1
+60:D0:2C:58:4A:A8	 YOUnion.SynergyWifi.com
+CA:9F:EC:2E:AD:00	 
+60:D0:2C:98:4A:A8	 register.synergywifi.com
+2C:95:69:45:B9:30	 ATTkYbB4mS
+60:D0:2C:E5:BA:58	 YounionStaff
+78:A3:51:56:60:86	 Tios GUEST
+60:D0:2C:65:BA:58	 YOUnion.SynergyWifi.com
+60:D0:2C:A5:B9:F8	 register.synergywifi.com
+A4:15:88:F9:9F:E3	 xfinitywifi
+60:D0:2C:A5:BA:58	 register.synergywifi.com
+BC:64:4B:AE:73:A0	 Executive_Chicken_Minion
+22:F1:9E:6C:35:B2	 
+0E:96:E6:61:E0:9D	 DIRECT-9d-HP M477 LaserJet
+D0:95:C7:3D:A4:E5	 Verizon-291LVW-A4E5
+FA:8F:CA:75:28:90	 Office Speaker.k
+DE:2E:48:8F:7C:39	 
+DC:BF:E9:FA:31:27	 418 #2
+10:0C:6B:91:D3:DB	 
+5C:5B:35:56:82:31	 LLamaFi
+60:D0:2C:D8:4E:58	 YounionStaff
+60:A4:4C:F2:1A:41	 NCopen
+A0:3D:6F:66:F6:D0	 
+C4:49:BB:96:26:A0	 John Galt
+EC:58:EA:03:6E:C8	 YOUnion.SynergyGuest.com
+5E:7A:8A:6B:8D:38	 
+78:23:AE:5C:F9:04	 ERG
+10:7B:44:9C:4A:70	 lakeshore
+BA:23:AE:5C:F9:04	 
+32:F1:9E:6C:35:B2	 xfinitywifi
+A0:3D:6F:66:F6:D1	 
+A0:3D:6F:66:F6:E0	 
+E4:E7:49:6B:0D:EA	 DIRECT-E7-HP OfficeJet Pro 8710
+60:D0:2C:E5:B9:F8	 YounionStaff
+9C:8C:D8:33:9C:22	 wifi-iot
+9C:8C:D8:32:FA:C3	 wifi-innovate
+9C:8C:D8:32:FA:C2	 wifi-iot
+10:DA:43:BB:53:E1	 🔥🔥🔥2.4GHz
+9C:8C:D8:33:9C:21	 wifi-internet
+9C:8C:D8:33:9C:23	 wifi-innovate
+60:D0:2C:58:4A:C8	 YOUnion.SynergyWifi.com
+D4:5D:DF:D4:83:08	 CBCI-6897-2.4
+D8:54:A2:8C:C1:14	 
+F0:9F:C2:6C:8D:57	 ArborMetrix
+0C:F4:D5:F8:F4:58	 register.synergywifi.com
+0C:F4:D5:78:F4:58	 FoundryGuest.SynergyWifi.com
+9C:8C:D8:33:9C:20	 wifi-guest
+02:9F:C2:6C:84:47	 ArbormetrixTesting
+22:AD:56:24:03:44	 Hotspot0344
+38:17:C3:90:5F:C4	 TDA_Guest
+58:6D:8F:CA:04:12	 
+80:CE:62:F7:68:DB	 DIRECT-DA-HP OfficeJet Pro 8710
+80:2A:A8:DA:F4:FE	 ACG320
+C4:49:BB:F2:C8:E8	 K Zaleski
+60:D0:2C:18:4A:C8	 YOUnion.SynergyGuest.com
+78:8A:20:87:55:DB	 Isalita_Cantina_Secured
+BC:64:4B:AE:28:80	 Apt5
+BC:82:5D:8A:0B:73	 WiFi Hotspot 2286
+28:7A:EE:B7:34:F3	 xfinitywifi
+38:17:C3:8F:FD:32	 
+A0:3D:6F:4F:3C:23	 
+9C:8C:D8:32:FA:C1	 wifi-internet
+82:2A:A8:DA:F4:FE	 ACG_Guest
+10:0C:6B:75:42:D3	 Michy2.4
+12:9F:C2:6C:84:47	 
+38:17:C3:90:42:A2	 
+F2:9F:C2:6C:8D:57	 ArborMetrixGuest
+60:D0:2C:25:BA:D8	 YOUnion.SynergyGuest.com
+F4:4E:05:16:C5:01	 Eco-Tenant
+DC:9F:DB:B2:65:CE	 
+A0:3D:6F:66:FD:A0	 
+1A:E8:29:43:57:62	 ArborMetrixGuest
+60:D0:2C:E5:BA:98	 YounionStaff
+D8:0D:17:19:C5:5C	 ragstock80
+A0:3D:6F:66:FD:A3	 
+38:17:C3:90:5C:A2	 
+22:AD:56:23:14:43	 Hotspot1443
+4C:12:65:91:CB:90	 ATTsttAKI2
+74:6F:F7:C0:E6:DE	 VaaH-130905
+28:7A:EE:B7:34:F2	 
+9C:8C:D8:32:FA:D1	 
+BE:75:36:0C:15:54	 myChevrolet
+78:61:7C:6D:00:12	 chevy2015
+12:9F:C2:6C:8D:57	 
+BE:75:36:29:5A:EA	 myChevrolet
+BC:82:5D:0E:8C:58	 Kylah08
+60:D0:2C:A5:BA:98	 register.synergywifi.com
+FC:EC:DA:32:21:A9	 NZTeen
+18:4B:0D:AD:38:98	 
+22:86:8C:9C:EA:20	 
+22:AD:56:2E:8D:D5	 Hotspot8DD5
+C4:49:BB:F8:4A:18	 WiFi Hotspot 8944
+60:D0:2C:58:44:48	 
+38:17:C3:90:7C:A2	 
+38:17:C3:8F:CA:44	 
+8C:0F:6F:06:46:E0	 311east
+82:2A:A8:D8:F1:4D	 
+96:0F:6F:06:46:E0	 xfinitywifi
+6E:E3:0E:CA:16:C5	 
+38:17:C3:90:7C:A4	 
+B6:EC:02:EB:F7:BF	 myChevrolet
+00:A7:42:87:CA:F0	 
+2C:DC:AD:44:75:38	 Audi_MMI_8518
+A0:3D:6F:4F:3C:20	 
+2A:E8:29:43:57:62	 ArbormetrixTesting
+0C:F4:D5:B8:F4:58	 FoundryStaff.SynergyWifi.com
+0C:F4:D5:38:F4:58	 Foundry.SynergyWifi.com
+FE:EC:DA:32:22:16	 
+2A:0B:19:C8:F4:A7	 
+38:17:C3:8F:FD:24	 TDA_Guest
+BC:82:5D:5E:D5:04	 A2A2go
+60:D0:2C:65:A4:68	 
+60:D0:2C:18:48:38	 
+DC:FE:07:83:85:E8	 CBCI-8E96-2.4
+02:9F:C2:6C:8D:57	 ArbormetrixTesting
+D4:6E:0E:FD:B5:9F	 TP-LINK_B59F
+60:D0:2C:D8:4A:C8	 YounionStaff
+F0:AB:54:B7:B8:CC	 andysilverado
+3A:E8:29:43:57:62	 
+F4:4E:05:16:C5:00	 Eco-Private-2.4
+78:96:84:10:B8:E0	 ATT7vbeHMS
+1E:EC:DA:32:21:A9	 
+22:AD:56:30:D4:0C	 HotspotD40C
+2E:DC:AD:C3:1D:59	 DIRECT-F8-davedkorodycom
+BC:82:5D:4D:C0:30	 Colette606
+14:22:DB:B2:A3:CE	 
+9C:8C:D8:33:9E:40	 wifi-guest
+18:E8:29:43:57:62	 ArborMetrix
+60:D0:2C:58:48:38	 YOUnion.SynergyWifi.com
+0C:EA:C9:C0:54:30	 ATTkPsDtA2
+10:0C:6B:AE:CC:68	 NETGEAR10
+60:D0:2C:98:4A:C8	 register.synergywifi.com
+38:17:C3:90:5F:C0	 TDA-Corporate
+78:F2:9E:78:FA:58	 CBCI-D595-2.4
+60:D0:2C:A5:A4:68	 register.synergywifi.com
+F0:9F:C2:6C:84:47	 ArborMetrix
+F2:9F:C2:6C:84:47	 ArborMetrixGuest
+9C:8C:D8:32:FA:C0	 wifi-guest
+70:5A:0F:BC:55:40	 DIRECT-15-HP OfficeJet Pro 8720
+60:D0:2C:98:44:08	 register.synergywifi.com
+60:D0:2C:D8:44:08	 YounionStaff
+7A:28:CA:05:ED:BE	 SNS/AhUBCAABAXgoygXtvgE=
+26:05:01:E1:62:68	 
+60:D0:2C:58:44:08	 YOUnion.SynergyWifi.com
+00:00:00:00:00:00	 
+C2:93:5B:C7:49:C6	 
+5C:5B:35:54:DC:B1	 
+60:D0:2C:18:44:08	 YOUnion.SynergyGuest.com
+8A:23:AE:5C:F9:04	 xfinitywifi
+60:A4:4C:F2:1A:40	 NCWLAN
+54:78:1A:65:7C:31	 TDEMO
+12:DA:43:AD:D9:E9	 NETGEAR-Guest
+60:D0:2C:25:BA:58	 YOUnion.SynergyGuest.com
+14:22:DB:B2:9E:6E	 
+60:D0:2C:A5:B8:A8	 register.synergywifi.com
+78:8A:20:71:D0:08	 Isalita
+22:AD:56:38:5D:53	 Hotspot5D53
+00:A7:42:87:CA:FF	 
+38:17:C3:90:65:42	 TDA-BYOD
+8A:15:04:B8:56:80	 Butzel Internal
+A0:3D:6F:66:F6:E1	 
+DC:BF:E9:FA:25:9F	 Jersey boys: the hit musical
+F8:E7:1E:C1:FC:D8	 register.synergywifi.com
+9A:23:AE:5C:F9:04	 
+60:D0:2C:65:B9:F8	 YOUnion.SynergyWifi.com
+60:D0:2C:18:4A:A8	 YOUnion.SynergyGuest.com
+60:D0:2C:25:B9:F8	 YOUnion.SynergyGuest.com
+78:8A:20:71:D0:1F	 Mani
+5C:5B:35:56:82:33	 
+38:17:C3:8F:FD:22	 TDA-BYOD
+84:1B:5E:2A:BA:15	 TIOS NET
+62:F1:9E:6C:35:B2	 
+02:9F:C2:6B:13:2F	 ArbormetrixTesting
+F0:B4:29:FD:F1:6D	 
+C8:52:61:74:DC:50	 ATT4TqiW6a
+F2:9F:C2:6C:86:33	 ArborMetrixGuest
+F4:4E:05:19:9F:C1	 Eco-Tenant
+F0:9F:C2:6C:86:33	 ArborMetrix
+FC:AE:34:9D:32:F0	 ATTJraSf9a
+08:02:8E:A9:B5:BB	 smith92
+BC:F1:F2:CF:69:41	 TDEMO
+BC:2E:48:8F:7C:39	 Your Emotions
+EC:58:EA:C3:6E:C8	 YounionStaff
+8A:15:04:B8:56:81	 Butzel BYOD
+8A:15:04:B8:56:8F	 
+1E:05:01:E1:62:68	 
+F0:9F:C2:6B:13:2F	 ArborMetrix
+12:9F:C2:6B:13:2F	 
+5C:5B:35:54:C1:82	 LLamaGuest
+16:AB:82:62:41:B2	 
+F2:9F:C2:6B:13:2F	 ArborMetrixGuest
+5C:5B:35:54:C1:83	 
+6C:CA:08:37:5F:50	 ATT208
+D6:AB:82:62:41:B2	 
+14:22:DB:B2:A3:C8	 
+BA:9F:EC:2E:AD:00	 xfinitywifi
+14:22:DB:B2:A3:C6	 Gary
+60:D0:2C:98:46:68	 register.synergywifi.com
+60:D0:2C:58:46:68	 YOUnion.SynergyWifi.com
+30:60:23:BD:D7:60	 ATT664
+60:D0:2C:D8:46:68	 YounionStaff
+14:22:DB:B2:A3:C4	 
+80:2A:A8:D7:F1:4D	 GEOLEO
+4E:D9:E7:7B:54:84	 Young Basile Guest
+38:17:C3:90:5F:C2	 TDA-BYOD
+60:D0:2C:18:46:68	 YOUnion.SynergyGuest.com
+A8:9F:EC:2E:AD:00	 Jaime
+20:73:55:37:A8:A0	 DANIELLE
+FA:B4:6A:D9:D3:5E	 DIRECT-5e-HP M15 LaserJet
+F4:4E:05:19:9F:C0	 Eco-Private-2.4
+4A:D9:E7:7B:54:84	 Young Basile
+14:22:DB:B2:A3:CC	 Gary Guest
+EA:9F:EC:2E:AD:00	 
+22:90:7F:96:72:67	 BL Guest Wifi
+00:0D:67:00:ED:42	 2020WWRoam
+C8:52:61:CF:67:46	 ARRIS-785D
+26:73:55:37:A8:A0	 xfinitywifi
+00:0D:67:00:ED:43	 2020WWRoamR
+7E:7A:8A:6B:8D:38	 
+02:90:7F:96:72:67	 BLMGRNET
+48:F8:B3:42:09:CD	 Cisco99917
+B0:93:5B:56:15:70	 ATTxXEv84I
+12:9F:C2:6C:86:33	 
+3C:7A:8A:6B:8D:38	 YannisL
+02:9F:C2:6C:86:33	 ArbormetrixTesting
+5C:5B:35:54:D9:51	 LLamaFi
+5C:5B:35:56:82:32	 LLamaGuest
+14:22:DB:B2:9E:6C	 Gary Guest
+5C:5B:35:54:D9:53	 
+14:22:DB:B2:9E:68	 
+08:36:C9:58:CB:B3	 NETGEAR66
+10:DA:43:AD:D9:E8	 NETGEAR01
+60:D0:2C:D8:63:58	 YounionStaff
+5C:5B:35:54:ED:C3	 
+60:D0:2C:25:BB:48	 YOUnion.SynergyGuest.com
+60:D0:2C:65:BB:48	 YOUnion.SynergyWifi.com
+14:22:DB:B2:9E:64	 
+60:D0:2C:E5:BB:48	 YounionStaff
+60:D0:2C:A5:BB:48	 register.synergywifi.com
+14:22:DB:B2:9E:66	 Gary
+60:D0:2C:98:63:58	 register.synergywifi.com
+60:D0:2C:18:63:58	 YOUnion.SynergyGuest.com
+5C:5B:35:54:ED:C2	 LLamaGuest
+60:D0:2C:58:63:58	 YOUnion.SynergyWifi.com
+5C:5B:35:54:D9:52	 LLamaGuest
+D4:5D:DF:7F:E0:C8	 CBCI-B2DA-2.4
+D2:93:5B:1F:46:EA	 
+5C:5B:35:54:ED:C1	 LLamaFi
+D4:5D:DF:D7:DB:00	 CBCI-F220-2.4
+02:93:5B:1F:46:EA	 
+E2:97:BA:C3:4C:E0	 xfinitywifi
+C2:93:5B:1F:46:EA	 xfinitywifi
+B0:93:5B:1F:46:EA	 RihVibes
+F2:93:5B:1F:46:EA	 
+3C:37:86:ED:FE:13	 Kaiserschmarrn
+E6:97:BA:C3:4C:E0	 
+EE:97:BA:C3:4C:E0	 
+DE:97:BA:C3:4C:E0	 
+F2:97:BA:C3:4C:E0	 
+D8:97:BA:C3:4C:E0	 HOME-7502-2.4
+AA:A7:95:95:22:C6	 DIRECT-c6-HP M477 LaserJet
+00:81:C4:1B:A9:D0	 
+00:81:C4:1B:A9:D3	 
+00:81:C4:1B:A9:D2	 
+00:81:C4:1B:A9:D1	 
+00:81:C4:1B:9D:23	 
+00:81:C4:1B:9D:22	 
+00:81:C4:1B:9D:20	 
+00:81:C4:1B:9D:21	 
+A0:3D:6F:66:F6:D3	 
+DE:9F:DB:B2:65:CE	 
+00:25:00:FF:94:73	 
+EC:58:EA:83:6E:C8	 register.synergywifi.com
